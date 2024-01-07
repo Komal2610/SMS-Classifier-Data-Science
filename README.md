@@ -7,11 +7,17 @@ Develop a text classification model to classify SMS as either spam or non-spam u
 Steps Involved:
 
 First: Data cleaning
+
 Second: EDA
+
 Third: Text preprocessing
+
 Fourth: Model building
+
 Fifth: Model evaluation
+
 Sixth: Improvement based on model evaluation
+
 Seventh: Testing the model
 
 Model Used:
